@@ -18,5 +18,11 @@ h3 {
 
 .logo {
   display: block;
+  margin: 30px auto;
+  width: 150px;
+}
+
+.nav-logo {
+  display: block;
   width: 150px;
 }
